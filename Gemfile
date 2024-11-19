@@ -6,13 +6,4 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3"
 
-# frozen_string_literal: true
-
-gemspec
-
-group :jekyll_plugins do
-    gem "jekyll-feed", "~> 0.6"
-    gem "jekyll-sitemap"
-    gem "jekyll-paginate"
-    gem "jekyll-seo-tag"
-end
+gem 'jekyll-remote-theme'
