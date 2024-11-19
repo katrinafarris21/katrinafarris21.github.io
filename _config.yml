@@ -1,1 +1,6 @@
 remote_theme: chrisrhymes/mere-blog-theme
+layout: homepage
+title: Mere Blog Theme
+subtitle: This is the demo site for the Mere Blog Theme
+image: /img/home.jpg
+hero_height: is-large
