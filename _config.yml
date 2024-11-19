@@ -1,2 +1,5 @@
 # Build settings
 remote_theme: chrisrhymes/mere-blog-theme
+
+paginate: 6
+paginate_path: "/page:num"
